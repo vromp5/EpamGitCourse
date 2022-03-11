@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Another merge practice.
+=======
+Add another line for merging practice.
+>>>>>>> practice.txt
